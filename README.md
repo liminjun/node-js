@@ -1,0 +1,2 @@
+# node-js
+Node.js is a JavaScript runtime that uses a non-blocking I/O model that makes it lightweight, efficient and very popular among JavaScript developers who also need to write server-side code. If you need any proof that Node.js can help scale your application, look no further than examples likes Netflix, PayPal and Uber, which currently using Node.js to deliver fast, scalable and reliable solutions.
